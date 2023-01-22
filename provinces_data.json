@@ -1,0 +1,256 @@
+{
+    "data": [
+        {
+            "province": "Anhui",
+            "lat": "31.8257",
+            "iso": "CHN",
+            "name": "China",
+            "long": "117.2264"
+        },
+        {
+            "province": "Beijing",
+            "lat": "40.1824",
+            "iso": "CHN",
+            "name": "China",
+            "long": "116.4142"
+        },
+        {
+            "province": "Chongqing",
+            "lat": "30.0572",
+            "iso": "CHN",
+            "name": "China",
+            "long": "107.8740"
+        },
+        {
+            "province": "Fujian",
+            "lat": "26.0789",
+            "iso": "CHN",
+            "name": "China",
+            "long": "117.9874"
+        },
+        {
+            "province": "Gansu",
+            "lat": "36.0611",
+            "iso": "CHN",
+            "name": "China",
+            "long": "103.8343"
+        },
+        {
+            "province": "Guangdong",
+            "lat": "23.3417",
+            "iso": "CHN",
+            "name": "China",
+            "long": "113.4244"
+        },
+        {
+            "province": "Guangxi",
+            "lat": "23.8298",
+            "iso": "CHN",
+            "name": "China",
+            "long": "108.7881"
+        },
+        {
+            "province": "Guizhou",
+            "lat": "26.8154",
+            "iso": "CHN",
+            "name": "China",
+            "long": "106.8748"
+        },
+        {
+            "province": "Hainan",
+            "lat": "19.1959",
+            "iso": "CHN",
+            "name": "China",
+            "long": "109.7453"
+        },
+        {
+            "province": "Hebei",
+            "lat": "38.0428",
+            "iso": "CHN",
+            "name": "China",
+            "long": "114.5149"
+        },
+        {
+            "province": "Heilongjiang",
+            "lat": "47.8620",
+            "iso": "CHN",
+            "name": "China",
+            "long": "127.7615"
+        },
+        {
+            "province": "Henan",
+            "lat": "33.8820",
+            "iso": "CHN",
+            "name": "China",
+            "long": "113.6140"
+        },
+        {
+            "province": "Hong Kong",
+            "lat": "22.3000",
+            "iso": "CHN",
+            "name": "China",
+            "long": "114.2000"
+        },
+        {
+            "province": "Hong Kong SAR",
+            "lat": "22.3",
+            "iso": "CHN",
+            "name": "China",
+            "long": "114.2"
+        },
+        {
+            "province": "Hubei",
+            "lat": "30.9756",
+            "iso": "CHN",
+            "name": "China",
+            "long": "112.2707"
+        },
+        {
+            "province": "Hunan",
+            "lat": "27.6104",
+            "iso": "CHN",
+            "name": "China",
+            "long": "111.7088"
+        },
+        {
+            "province": "Inner Mongolia",
+            "lat": "44.0935",
+            "iso": "CHN",
+            "name": "China",
+            "long": "113.9448"
+        },
+        {
+            "province": "Jiangsu",
+            "lat": "32.9711",
+            "iso": "CHN",
+            "name": "China",
+            "long": "119.4550"
+        },
+        {
+            "province": "Jiangxi",
+            "lat": "27.6140",
+            "iso": "CHN",
+            "name": "China",
+            "long": "115.7221"
+        },
+        {
+            "province": "Jilin",
+            "lat": "43.6661",
+            "iso": "CHN",
+            "name": "China",
+            "long": "126.1923"
+        },
+        {
+            "province": "Liaoning",
+            "lat": "41.2956",
+            "iso": "CHN",
+            "name": "China",
+            "long": "122.6085"
+        },
+        {
+            "province": "Macau",
+            "lat": "22.1667",
+            "iso": "CHN",
+            "name": "China",
+            "long": "113.5500"
+        },
+        {
+            "province": "Macau SAR",
+            "lat": "22.1667",
+            "iso": "CHN",
+            "name": "China",
+            "long": "113.55"
+        },
+        {
+            "province": "Ningxia",
+            "lat": "37.2692",
+            "iso": "CHN",
+            "name": "China",
+            "long": "106.1655"
+        },
+        {
+            "province": "Qinghai",
+            "lat": "35.7452",
+            "iso": "CHN",
+            "name": "China",
+            "long": "95.9956"
+        },
+        {
+            "province": "Shaanxi",
+            "lat": "35.1917",
+            "iso": "CHN",
+            "name": "China",
+            "long": "108.8701"
+        },
+        {
+            "province": "Shandong",
+            "lat": "36.3427",
+            "iso": "CHN",
+            "name": "China",
+            "long": "118.1498"
+        },
+        {
+            "province": "Shanghai",
+            "lat": "31.2020",
+            "iso": "CHN",
+            "name": "China",
+            "long": "121.4491"
+        },
+        {
+            "province": "Shanxi",
+            "lat": "37.5777",
+            "iso": "CHN",
+            "name": "China",
+            "long": "112.2922"
+        },
+        {
+            "province": "Sichuan",
+            "lat": "30.6171",
+            "iso": "CHN",
+            "name": "China",
+            "long": "102.7103"
+        },
+        {
+            "province": "Tianjin",
+            "lat": "39.3054",
+            "iso": "CHN",
+            "name": "China",
+            "long": "117.3230"
+        },
+        {
+            "province": "Tibet",
+            "lat": "31.6927",
+            "iso": "CHN",
+            "name": "China",
+            "long": "88.0924"
+        },
+        {
+            "province": "Unknown",
+            "lat": null,
+            "iso": "CHN",
+            "name": "China",
+            "long": null
+        },
+        {
+            "province": "Xinjiang",
+            "lat": "41.1129",
+            "iso": "CHN",
+            "name": "China",
+            "long": "85.2401"
+        },
+        {
+            "province": "Yunnan",
+            "lat": "24.9740",
+            "iso": "CHN",
+            "name": "China",
+            "long": "101.4870"
+        },
+        {
+            "province": "Zhejiang",
+            "lat": "29.1832",
+            "iso": "CHN",
+            "name": "China",
+            "long": "120.0934"
+        }
+    ]
+}
